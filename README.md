@@ -1,5 +1,7 @@
 # HealthTweet-Clustering
 ## Cleaning, Exploratory data analysis and Clustering of Health related tweets from seversl health agencies between from 2011-2015.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image1.png?raw=true)
+
 
 
 # Citation:
